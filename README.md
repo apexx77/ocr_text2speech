@@ -1,5 +1,7 @@
-# ocr_text2speech
-A simple Android Application that can recognize the text and can read it for you!
+# ORC_Text2Speech
+## Introduction
+- A simple Android Application written using Java that can recognize the text and can read it for you!
+- The app uses Optical Character Recognition(OCR) from Google's Mobile Vision Text API as well as the TextToSpeech engine built into Android.
 
 <h2 align="center">Tech stack</h2>
 <div align="center" style="padding-top:20px;">
